@@ -37,14 +37,16 @@ This project processes user feedback related to the Saudi Electricity Regulatory
 
 ---
 
-## 📦 Installation
-
-```bash
-pip install langchain-core langchain-nvidia-ai-endpoints pandas
-
-
 ## 📊 Dashboard Preview
 
 Below is an example Power BI dashboard created using the generated `feedback_log.csv`:
 
 ![Dashboard Preview](dashboard-overview.png)
+
+
+---
+
+## 📦 Installation
+
+```bash
+pip install langchain-core langchain-nvidia-ai-endpoints pandas
